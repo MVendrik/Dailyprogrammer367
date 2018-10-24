@@ -1,0 +1,7 @@
+C:\Users\Marieke\source\repos\Dailyprogrammer367\Dailyprogrammer367\bin\Debug\Dailyprogrammer367.exe.config
+C:\Users\Marieke\source\repos\Dailyprogrammer367\Dailyprogrammer367\bin\Debug\Dailyprogrammer367.exe
+C:\Users\Marieke\source\repos\Dailyprogrammer367\Dailyprogrammer367\bin\Debug\Dailyprogrammer367.pdb
+C:\Users\Marieke\source\repos\Dailyprogrammer367\Dailyprogrammer367\obj\Debug\Dailyprogrammer367.csprojAssemblyReference.cache
+C:\Users\Marieke\source\repos\Dailyprogrammer367\Dailyprogrammer367\obj\Debug\Dailyprogrammer367.csproj.CoreCompileInputs.cache
+C:\Users\Marieke\source\repos\Dailyprogrammer367\Dailyprogrammer367\obj\Debug\Dailyprogrammer367.exe
+C:\Users\Marieke\source\repos\Dailyprogrammer367\Dailyprogrammer367\obj\Debug\Dailyprogrammer367.pdb
